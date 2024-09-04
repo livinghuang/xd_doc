@@ -102,18 +102,19 @@ To set the upload interval, use a BLE app such as nRF Connect:
    ![app](./xda002_img/app.png?raw=true)
 2. **Scan** for devices named "XDA-".
    
-   ![filter](./xda002_img/filter.png?raw=true)
+   ![Scan](./xda002_img/filter.png?raw=true)
 3. **Connect** to the desired device.
    
-   ![devices](./xda002_img/devices.png?raw=true)
+   ![Connect](./xda002_img/devices.png?raw=true)
 4. Access the **services** section.
    
-   ![devices](./xda002_img/devices.png?raw=true)
+   ![Access](./xda002_img/services.png?raw=true)
 5. **Send AT commands** to configure the upload interval.
    
-   ![devices](./xda002_img/services.png?raw=true)
-6. **Verify** the restart the device.
-
+   ![Commands](./xda002_img/command.png?raw=true)
+6. **Verify** the response.
+   
+   ![Verify](./xda002_img/result.png?raw=true)
 ---
 
 ## Conclusion
