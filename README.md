@@ -228,18 +228,19 @@ XDA002 提供了一個 10 秒的 BLE 設置窗口，允許用戶進行配置，�
    ![app](./xda002_img/app.png?raw=true)
 2. 掃描名稱以 "XDA-" 開頭的設備。
       
-   ![filter](./xda002_img/filter.png?raw=true)
+   ![Scan](./xda002_img/filter.png?raw=true)
 3. 連接目標設備。
       
-   ![devices](./xda002_img/devices.png?raw=true)
+   ![Connect](./xda002_img/devices.png?raw=true)
 4. 訪問設備服務。
-      
-   ![devices](./xda002_img/devices.png?raw=true)
+   
+   ![Access](./xda002_img/services.png?raw=true)
 5. 使用 AT 指令設置上傳間隔。
       
-   ![devices](./xda002_img/services.png?raw=true)
-6. 重開機。
+   ![Commands](./xda002_img/command.png?raw=true)
+6.	確認回應。
 
+   ![Verify](./xda002_img/result.png?raw=true)
 ---
 
 ## 結論
